@@ -12,5 +12,5 @@ In spring 2024, we have an opportunity to collaborate with Finnish Red Cross (FR
 We will create a relational data model representing the supply of volunteers. This model will in-clude attributes and relationships relevant to the volunteer capacity, ensuring alignment with the FRC’s operational needs.
 ## Part 2: SQL implementation
 Using the provided synthetic data, we will develop and execute SQL queries to retrieve and ana-lyse information. This part tests our ability to apply SQL in practical scenarios, enhancing our skills in data manipulation and analysis.
-## Additional part: Dynamic matching
+## Optional extra part: Dynamic matching
 We developed an algorithm to match the volunteer to the request, assuming a request can be clas-sified as Oversupply request and Undersupply request.
